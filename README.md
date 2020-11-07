@@ -66,7 +66,7 @@ Major companies in this domain include Magento, PrestaShop, OpenCart, BigCommerc
 
 ## Results
 
-By the 1st of Sep 2020, there have been 1,498,823 live websites around the world, and there are 3.6% of the Top 1m websites using Shopify. BuiltWith's data confirms the worldwide sales realized through Shopify is $135B. Shopify is popular in all English-speaking markets. It reaches nearly 300% within 4 months in 2020 for Shopify's stock value.
+By the 1st of Sep 2020, there have been 1,498,823 live websites around the world, and there are 3.6% of the Top 1m websites using Shopify. BuiltWith's data confirms the worldwide sales realized through Shopify is $135B. Shopify is popular in all English-speaking markets. Shopify's stock value increased nearly 300% within 4 months in 2020.
 
 Core metrics could measure a company's success from aspects of popularity, number of market shares, user-frendly, simple, customer focus, multilingual interface, and the ability to adapt to market changes.
 
