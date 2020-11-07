@@ -42,9 +42,9 @@ Shopify has a large team to collabrate from different software development. Each
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+Shopify is allocated in the domain of Payments/Billing.
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+Major trends and innovations:
 
 In 2009, Shopify created an API platform and app store to sell product online.
 
@@ -74,7 +74,6 @@ Core metrics could measure a company's success from aspects of popularity, numbe
 
 Currently, most of POS focused on selling products cannot do things for accommodation reservation. It will be a breakout if this function can be added.
 
-* Why do you think that offering this product or service would benefit the company?
 By adding this function, many companies whose business cover both accommodation and restaurant don't have to subscribe separate softwares which can cut huge costs, including software and labour costs.
 
 
