@@ -74,11 +74,14 @@ Core metrics could measure a company's success from aspects of popularity, numbe
 
 Currently, most of POS focused on selling products cannot do things for accommodation reservation. It will be a breakout if this function can be added.
 
-By adding this function, many companies whose business cover both accommodation and restaurant don't have to subscribe separate softwares which can cut huge costs, including software and labour costs.
+By adding this function, many companies whose business cover both accommodation and restaurant don't have to subscribe separate softwares, so that they can cut huge costs, including software and labour costs.
 
 
 
 https://producthabits.com/shopify-grew-snowboard-shop-10b-commerce-ecosystem/ (How Shopify Grew From a Snowboard Shop to a $10B Commerce Ecosystem)
+
 https://www.borndigital.com/2015/09/04/a-brief-history-of-shopify-2015-09-04 (A Brief History of Shopify)
+
 https://shopify.engineering/ (Shopify Engineering)
+
 https://www.websitetooltester.com/en/blog/shopify-market-share/#:~:text=Shopify%20is%20now%20worth%20%24124.88,in%20the%20world%20behind%20Amazon. (7 Surprising Stats That Show The Size of Shopify’s Market Share)
