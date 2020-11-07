@@ -14,12 +14,31 @@ Shopify made $100 million in 2009 by selling their shopping cart system. Its Ser
 
 ## Business Activities:
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers? 
 Shopify faces to individual sellers and internet giants such as Google and Tesla.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Shopify occupies 31% of the US websites using ecommerce technoligies. 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+It forms 18% of market shares in the whole web.
+
+Unlike a lot of other companies, Shopify focus on helping other merchants to build their own stores.
+
+
+
+Shopify currently utilises 15 DevOps, 16 applications and Data, 2 business tools and 2 Utilities.
+
+15 DevOps: 
+GitHub, Git, Docker, Kubernetes, New Relic, Vagrant, Datadog, Pingdom, Chef, Google Kubernetes Engine, Zookeeper, StatusPage.io, StatsD, Buildkite, and Percy.
+
+16 Application and Data:
+NGINX, React, MySQL, Redis, Ruby, React Native, GraphQL, Rails, Kafka, Go, Memcached, OpenResty, Apache Spark, Hadoop, Lua and Unicorn.
+
+2 Business Tools:
+Slack and Zendesk.
+
+2 Utilities:
+Elasticsearch and Bootsnap.
+
+Shopify has a large team to collabrate from different software development. Each day Shopify changes 40 times and follows a trunk-based development workflow and merge about 400 commits to master.
 
 ## Landscape:
 
@@ -43,30 +62,24 @@ In 2017, Shopify introduced QR codes which makes shoppers to use their phone cam
 
 Doing this way, Shopify expanded from an initial tool to a platform then to a ecosystem, eventually growing to a $10 billion commercial giat. 
 
-* What are the other major companies in this domain?
+Major companies in this domain include Magento, PrestaShop, OpenCart, BigCommerce, WooCommerce, ECShop (China), Color Me Shop (Japan), Tienda Nube (Argentina), and so on.
 
 ## Results
 
-* What has been the business impact of this company so far?
+By the 1st of Sep 2020, there have been 1,498,823 live websites around the world, and there are 3.6% of the Top 1m websites using Shopify. BuiltWith's data confirms the worldwide sales realized through Shopify is $135B. Shopify is popular in all English-speaking markets. It reaches nearly 300% within 4 months in 2020 for Shopify's stock value.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
+Core metrics could measure a company's success from aspects of popularity, number of market shares, user-frendly, simple, customer focus, multilingual interface, and the ability to adapt to market changes.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+Currently, most of POS focused on selling products cannot do things for accommodation reservation. It will be a breakout if this function can be added.
 
 * Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
-
-
-
+By adding this function, many companies whose business cover both accommodation and restaurant don't have to subscribe separate softwares which can cut huge costs, including software and labour costs.
 
 
 
 https://producthabits.com/shopify-grew-snowboard-shop-10b-commerce-ecosystem/ (How Shopify Grew From a Snowboard Shop to a $10B Commerce Ecosystem)
 https://www.borndigital.com/2015/09/04/a-brief-history-of-shopify-2015-09-04 (A Brief History of Shopify)
+https://shopify.engineering/ (Shopify Engineering)
+https://www.websitetooltester.com/en/blog/shopify-market-share/#:~:text=Shopify%20is%20now%20worth%20%24124.88,in%20the%20world%20behind%20Amazon. (7 Surprising Stats That Show The Size of Shopify’s Market Share)
