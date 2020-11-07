@@ -77,6 +77,7 @@ Currently, most of POS focused on selling products cannot do things for accommod
 By adding this function, many companies whose business cover both accommodation and restaurant don't have to subscribe separate softwares, so that they can cut huge costs, including software and labour costs.
 
 
+addendum:
 
 https://producthabits.com/shopify-grew-snowboard-shop-10b-commerce-ecosystem/ (How Shopify Grew From a Snowboard Shop to a $10B Commerce Ecosystem)
 
