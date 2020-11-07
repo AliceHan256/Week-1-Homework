@@ -14,9 +14,8 @@ Shopify made $100 million in 2009 by selling their shopping cart system. Its Ser
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
-
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers? 
+Shopify faces to individual sellers and internet giants such as Google and Tesla.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -27,6 +26,22 @@ Shopify made $100 million in 2009 by selling their shopping cart system. Its Ser
 * What domain of the financial industry is the company in?
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+
+In 2009, Shopify created an API platform and app store to sell product online.
+
+In 2010, while smartphones were bloating globally, Shopify lauched a "Build a Business" competition which generated over $3 million in revenue. 
+
+In 2011, Shopify added Shopify Experts for less experienced sellers to seek knowledge of Shopify from this directory.
+
+In 2013, Shopify redesigned its platform by adding features such as refund management, better search functionality, easier-to-use admin features, and a live theme editor, all of which make the platform easier for merchants to use. In addition, Shopify released POS, which makes merchants to sell their inventory both in-store and online where data can be synched easily.
+
+In 2015, Shopify introduced the Buy Buttons and Multichannel Shopify to its platform for merchants to use the innovated dashboard to manage their sales across multichannels, including the e-commerce storefront, POS, and buy buttons which allow merchants to embed it on any website.
+
+In 2016, Shopify integrated with Facebook Messenger, allowing merchants to have communications with their customers directly. 
+
+In 2017, Shopify introduced QR codes which makes shoppers to use their phone camera to scan the QR code on a physical item and get access to the item from the merchant's online store.
+
+Doing this way, Shopify expanded from an initial tool to a platform then to a ecosystem, eventually growing to a $10 billion commercial giat. 
 
 * What are the other major companies in this domain?
 
